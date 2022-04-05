@@ -1,7 +1,6 @@
-baseURL: "https://example.com"
-languageCode: "en-us"
-title: "Hugo Novela"
-pygmentsstyle: 'monokai'
+baseURL: "https://drown.parth"
+languageCode: "zh-cn"
+title: "Drown Party"
 metaDataFormat: yaml
 
 # Theme settings
