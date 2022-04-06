@@ -2,9 +2,10 @@
 title: 我想写点什么
 date: 2021-01-23
 excerpt: 但是没想好
-image: /images/write-something.jpg
+hero: /images/write-something.jpg
 timeToRead: 8
-author: 
+authors:
+
 - Mayhem Drown
 
 ---
