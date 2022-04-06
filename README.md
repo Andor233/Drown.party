@@ -85,7 +85,7 @@ title: Dennis Brotzky
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
+avatar: /images/mayhem-drown.jpg
 featured: true
 social:
   - title: github
@@ -113,7 +113,7 @@ authors:
 ### Newsletter call to action
 
 This theme includes a shortcode for a newsletter callout form that you can add to any page.
-It uses [formspree.io](//formspree.io/) as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Visit the Formspree site to get get going add your Formspree email to your shortcode like this:
+It uses [formspree.io](https://formspree.io/) as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Visit the Formspree site to get get going add your Formspree email to your shortcode like this:
 
 ```
 {{< subscribe email="your@email.com" >}}
