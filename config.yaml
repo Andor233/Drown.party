@@ -18,3 +18,7 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
