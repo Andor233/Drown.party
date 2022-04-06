@@ -1,7 +1,9 @@
-baseURL: "https://drown.parth"
-languageCode: "zh-cn"
+baseURL: "https://drown.party"
+languageCode: zh-Hans
 title: "Drown Party"
 metaDataFormat: yaml
+defaultContentLanguage: zh
+hasCJKLanguage: true
 
 # Theme settings
 # theme: novela

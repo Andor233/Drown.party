@@ -3,7 +3,6 @@ title: DARLING in the FRANXX
 date: 2020-03-15
 hero: /images/darling.jpg
 excerpt: Something About DARLING in the FRANXX
-timeToRead: 8
 authors:
  - Mayhem Drown
 ---

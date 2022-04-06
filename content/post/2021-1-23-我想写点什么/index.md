@@ -3,7 +3,6 @@ title: 我想写点什么
 date: 2021-01-23
 excerpt: 但是没想好
 hero: /images/write-something.jpg
-timeToRead: 4
 authors:
   - Mayhem Drown
 ---
