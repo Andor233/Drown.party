@@ -5,9 +5,7 @@ hero: /images/darling.jpg
 excerpt: Something About DARLING in the FRANXX
 timeToRead: 8
 authors:
-
-- Mayhem Drown
-
+ - Mayhem Drown
 ---
 
 `TRIGGER`可算是我最喜欢的动画工作室了，当时在`Youtube`上刷到`DARLING in the FRANXX`
