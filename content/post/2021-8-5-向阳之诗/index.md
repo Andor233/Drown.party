@@ -2,7 +2,7 @@
 title: 向阳之诗
 date: 2021-08-05
 excerpt: Under Sunshine
-hero: /images/leaf.png
+hero: /images/leaf.jpg
 authors:
   - Mayhem Drown
 ---

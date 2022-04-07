@@ -2,7 +2,7 @@
 title: Fallen Star
 date: 2021-02-02
 excerpt: and flower
-hero: /images/star.png
+hero: /images/star.jpg
 authors:
   - Mayhem Drown
 ---
