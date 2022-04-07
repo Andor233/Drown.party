@@ -3,3 +3,4 @@ resources/_gen
 .DS_Store
 .idea
 _vendor
+.hugo_build.lock

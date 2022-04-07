@@ -1,0 +1,20 @@
+{{- $id := .Get 0 -}}
+{{- $auto := 0 -}}
+{{- if isset .Params 1 -}}
+{{- $auto = cond (.Get 1) 1 0 -}}
+{{- end -}}
+{{- $type := 2 -}}
+{{- if isset .Params 2 -}}
+{{ $type = .Get 2 }}
+{{- end -}}
+<br>
+<div class="ratio ratio-21x9 neteasemusic" style="text-align: center;">
+    <iframe class="neteasemusic-iframe"
+            allow="autoplay *; encrypted-media*; fullscreen *" height="150"
+            style="width:100%;max-width:660px;overflow:hidden;background:transparent;"
+            sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+            src="https://music.163.com/outchain/player?type={{ $type }}&id={{ $id }}&auto={{ $auto }}"
+            loading="lazy">
+    </iframe>
+</div>
+<br>
