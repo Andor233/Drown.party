@@ -4,3 +4,4 @@ resources/_gen
 .idea
 _vendor
 .hugo_build.lock
+.history
