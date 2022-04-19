@@ -1,14 +1,11 @@
-***
-
+---
 title: Runaway.feat covid(西双版纳 ver) - WIP
 date: 2022-04-11
 excerpt: With nobody
 hero: /images/runaway.jpg
 authors:
-
-*   Mayhem Drown
-
-***
+ -  Mayhem Drown
+---
 
 拖延症愈发地严重,这本来是去年的旅行,在2021的圣诞,却拖到四个月才开始动笔这篇游记.四个月过去了,生活却似乎没有任何的好转,没有新的旅行,lockdown仍在继续,种种乱象让人愈发地绝望,似乎美好的只剩下了回忆.
 
