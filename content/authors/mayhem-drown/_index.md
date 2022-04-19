@@ -1,6 +1,6 @@
 ---
 title: Mayhem Drown
-bio: 交个朋友, 抱抱我
+bio: 抱抱我
 avatar: "/images/mayhem-drown.jpg"
 featured: true
 social:
