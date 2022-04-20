@@ -1,7 +1,7 @@
 ---
-title: Runaway.feat covid(西双版纳 ver) - WIP
+title: Runaway.feat covid(西双版纳 ver) - 第一章
 date: 2022-04-11
-excerpt: With nobody
+excerpt: 向着温暖的地方盛大地Runaway
 hero: /images/runaway.jpg
 authors:
  -  Mayhem Drown
@@ -89,5 +89,3 @@ Rainy.
 
 ![13](images/13.jpg)
 手工的木雕
-
-### 2021/12/26: 毫不知情的Runaway
