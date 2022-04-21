@@ -1,7 +1,7 @@
 ---
 title: Runaway.feat covid(西双版纳 ver) - 第一章
 date: 2022-04-11
-excerpt: 向着温暖的地方盛大地Runaway
+excerpt: 朝着温暖的地方盛大地Runaway
 hero: /images/runaway.jpg
 authors:
  -  Mayhem Drown
@@ -13,7 +13,7 @@ authors:
 
 又臭又长像裹脚布还痛苦的工作终于告了段落,光速畅想去哪里玩,火速订好行程和酒店,然后每天数着还有多少时间可以逃离这片沉闷的空气.
 
-### 2021/12/25: 向着温暖的地方盛大地Runaway
+### 2021/12/25: 朝着温暖的地方盛大地Runaway
 
 #### AM 10:00
 
