@@ -5,3 +5,5 @@ resources/_gen
 _vendor
 .hugo_build.lock
 .history
+# Local Netlify folder
+.netlify
