@@ -4,6 +4,7 @@ title: "Drown Party"
 metaDataFormat: yaml
 defaultContentLanguage: zh
 hasCJKLanguage: true
+assetDir : "static"
 
 # Theme settings
 # theme: novela

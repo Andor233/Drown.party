@@ -1,0 +1,5 @@
+{{ with .Page.Resources.GetMatch (.Get 0) }}
+{{ with .Resize (printf "%dx%d webp" .Width .Height) }}
+<img style="margin: 0 10px;width:100%;min-height:100%" src="{{ .RelPermalink }}">
+{{ end }}
+{{ end }}
