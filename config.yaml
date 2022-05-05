@@ -5,6 +5,7 @@ metaDataFormat: yaml
 defaultContentLanguage: zh
 hasCJKLanguage: true
 assetDir : "static"
+timeout : 60s
 
 # Theme settings
 # theme: novela

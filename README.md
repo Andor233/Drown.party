@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e97ed974-f8a8-4be7-b001-1a1a8826ef2a/deploy-status)](https://app.netlify.com/sites/drownparty/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c8570a5e-8402-4222-a2d0-937c455d3b2e/deploy-status)](https://app.netlify.com/sites/regal-twilight-c9b938/deploys)
 
 # My Blog
 
