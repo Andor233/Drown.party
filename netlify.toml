@@ -1,0 +1,5 @@
+[caches.images]
+dir = ":cacheDir/_gen"
+
+[context.production]
+environment = {HUGO_VERSION = "0.98.0"}
