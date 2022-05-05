@@ -13,7 +13,7 @@
 
         <div class="article-hero-image" id="ArticleImage__Hero">
             {{ with resources.Get .Page.Params.hero }}
-            {{ with .Resize "1920x1080 webp" }}
+            {{ with .Resize (printf "%dx%d webp" .Width .Height) }}
             <img src="{{ .RelPermalink }}">
             {{ end }}
             {{ end }}
